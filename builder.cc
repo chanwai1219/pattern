@@ -1,3 +1,6 @@
+#include <iostream>
+#include <vector>
+
 /**
  * It makes sense to use the Builder pattern only when your products are quite
  * complex and require extensive configuration.

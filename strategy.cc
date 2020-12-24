@@ -1,3 +1,7 @@
+#include <iostream>
+#include <vector>
+#include <algorithm>
+
 /**
  * The Strategy interface declares operations common to all supported versions
  * of some algorithm.
